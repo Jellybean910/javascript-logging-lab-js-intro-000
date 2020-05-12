@@ -1,4 +1,4 @@
-```js 
+```js
 console.log("First test run of JavaScript in a Lab")
 ```
 ```js
