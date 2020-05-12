@@ -1,6 +1,6 @@
 ```js
 console.error("First test run of JavaScript in a Lab")
 ```
-```js
+```index.js
 console.log("attempt to log")
 ```
