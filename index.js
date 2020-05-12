@@ -1,5 +1,8 @@
 ```js
 console.error("First test run of JavaScript in a Lab")
 ```js
-console.log(attempt to log)
+<script>
+var str = "Welcome";
+console.log(str);
+</script>
 ```
